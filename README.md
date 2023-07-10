@@ -9,3 +9,5 @@ DAY 1: 주요 실습 사항 파이썬 환경 설정(완료) 실행 및 GIT 허�
 [소스 코드 : HELLOWORLD_EX1.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY1-2/HELLOWORLD_EX1.py)
 [소스 코드 : HELLOWORLD_EX1.PY2 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY1-2/DATE_INPUT_EX2.py)
 [소스 코드 : DATA_CONVERT_EX3.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY1-2/DATA_CONVERT_EX3.py)
+[소스 코드 : IF_REPEAT_EX4.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY1-2/IF_REPEAT_EX4.py)
+[소스 코드 : IF_REPEAT_EX5.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY1-2/IF_REPEAT_EX5.py)
