@@ -1,14 +1,12 @@
-# 함수
-result = sum([1, 2, 3, 4, 5]) # 더하기
-print(result)
-
-min_result = min(7, 3, 5, 2) # 최소 값
-max_result = max(7, 3, 5, 2) # 최대 값
-print(min_result, max_result)
-
-result = eval("(3+5)*7") # 문자열 --> 연산식으로 변환
-print(result)
-
-result = sorted([9, 1, 8, 5, 4]) # 정렬
-reverse_result = sorted([9, 1, 8, 5, 4], reverse=True) # 역정렬
-print(result, reverse_result)
+def av(*args):
+    arr = [] #리스트 변수 선언
+        for i in args:
+        arr.append(i) # 매개변수를 각각 추가 저장
+        
+        temp = 0
+        for j in arr:
+            temp += j # temp에 합한 결과를 누적
+        
+        return temp/len(arr) # 평균 계산 리턴
+        
+print('입력한 정수의 평균을 출력: ', avg(1, 2, 2, 2, 2, 2, 3, 3, 4, 5))
