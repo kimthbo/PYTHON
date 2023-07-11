@@ -5,7 +5,7 @@ t_length = len(b) # 튜플의 길이 len 함수
 print(t_length) # 튜플의 길이를 출력
 print(b) # 전체 출력
 
-lst = list(b) # 데이터 변경 방법 2, 리스트로 변환 내용 수정
+lst = list(b) # 데이터 변경 방법 2, 리스트로 변환 내용 수정 <- append 함수를 사용하기 위해서 변환, 호환이 안됌
 lst.append('add') # 리스트 내용 추가
 c = tuple(lst) # 리스트를 튜플로 변환
 print(c) # 전체 출력
