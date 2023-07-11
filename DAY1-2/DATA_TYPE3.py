@@ -24,5 +24,5 @@ print(array)
 array = []
 for i in range(10):
     if i % 2 == 1:
-        array.append(i)
+        array.append(i) #많이 쓰임 기억 필수
 print(array) # 위 리스트 컴프리헨션이 없는 코드
