@@ -18,3 +18,4 @@ DAY 1: 주요 실습 사항 파이썬 환경 설정(완료) 실행 및 GIT 허�
 [소스 코드 : DATA_TYPE_EX9.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY1-2/DATA_TYPE_EX9.py)
 [소스 코드 : FUNCTION_EX11.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY1-2/FUNCTION_EX11.py)
 [소스 코드 : FUNCTION_EX12.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY1-2/FUNCTION_EX12.py)
+[소스 코드 : TIME_TEST.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY3/TIIME_TEST.py)
