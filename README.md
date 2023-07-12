@@ -21,3 +21,5 @@ DAY 1: 주요 실습 사항 파이썬 환경 설정(완료) 실행 및 GIT 허�
 ##DAY 3:
 [소스 코드 : TIME_TEST.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY3/TIIME_TEST.py)
 [소스 코드 : CURRENCY.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY3/CURRENCY.py)
+[소스 코드 : 1_PLEASE_EX1.PY 도전 완료](깃 허브 소스코드 URL)
+[소스 코드 : CURRENCY_EX2.PY 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY3/CURRENCY_EX2_1.py)  
