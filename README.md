@@ -24,3 +24,4 @@ DAY 1: 주요 실습 사항 파이썬 환경 설정(완료) 실행 및 GIT 허�
 [소스 코드 : 1_PLEASE_EX1.PY 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY3/1_PLEASE_EX1.py)
 [소스 코드 : CURRENCY_EX2.PY 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY3/CURRENCY_EX2_1.py)
 [소스 코드 : CARD_EX3.PY 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY3/CARD_EX3.py)
+[소스 코드 : TIMEN3_EX1.py 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY4/TIMEN3_EX1.py)
