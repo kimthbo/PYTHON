@@ -29,3 +29,7 @@ DAY 1: 주요 실습 사항 파이썬 환경 설정(완료) 실행 및 GIT 허�
 [소스 코드 : TIMEN3_EX1.py 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY4/TIMEN3_EX1.py)
 [소스 코드 : ATOZ_EX2.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY4/ATOZ_EX2_1.py)
 [소스 코드 : DECRYPTION_EX3.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY4/DECRYPTION_EX3_1.py) 
+
+##DAY 5:
+[소스 코드 : DAY5_EX1.py 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY5/EXAM_01.py)
+[소스 코드 : DAY5_EX2.py 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY5/EXAM_02.py)
