@@ -33,3 +33,7 @@ DAY 1: 주요 실습 사항 파이썬 환경 설정(완료) 실행 및 GIT 허�
 ##DAY 5:
 [소스 코드 : DAY5_EX1.py 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY5/EXAM_01.py)
 [소스 코드 : DAY5_EX2.py 도전 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY5/EXAM_02.py)
+
+##DAY 6:
+[도전 1 : DFS_EX1.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY6/DFS_EX1.py) 
+[도전 2 : BFS_EX2.PY 실행 완료](https://github.com/kimthbo/PYTHON/blob/main/DAY6/BFS_EX2.py)
