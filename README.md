@@ -42,3 +42,4 @@ DAY 1: 주요 실습 사항 파이썬 환경 설정(완료) 실행 및 GIT 허�
 [도전 1 : QUICK_COMPARISON_EX1.py](https://github.com/kimthbo/PYTHON/blob/main/DAY7/QUICK_COMPARISON_EX1.py)
 [도전 2 : SORT_EX2.py](https://github.com/kimthbo/PYTHON/blob/main/DAY7/SORT_EX2_1.py)
 [도전 3 : SORT_EX3.py](https://github.com/kimthbo/PYTHON/blob/main/DAY7/SORT_EX3.py)
+[도전 4 : SORT_EX4.py](https://github.com/kimthbo/PYTHON/blob/main/DAY7/SORT_EX4.py)
