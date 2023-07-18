@@ -10,7 +10,7 @@ arr = [list(map(int, input('단지 지도 세부 정보를 입력 : '))) for _ i
 cnt=0 # 단지안에 속하는 집의 수 
 cnt_arr=list() # 큐가 끝날때 최종 cnt를 담아줄 배열값
 
-
+s
 for i in range(n): # 반복문 시작
     for j in range(n):
         if arr[i][j]==1:
