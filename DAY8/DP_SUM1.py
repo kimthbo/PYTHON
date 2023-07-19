@@ -1,4 +1,4 @@
-n = int(input(‘더하기 입력 개수 : ‘))
+n = int(input('더하기 입력 개수 : '))
 
 arr = list(map(int, input().split()))
 dp = [0] * len(arr) # DP 테이블 공간 선언 및 초기화
