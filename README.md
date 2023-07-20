@@ -46,4 +46,9 @@ DAY 1: 주요 실습 사항 파이썬 환경 설정(완료) 실행 및 GIT 허�
 [도전 5 : SORT_EX5.py](https://github.com/kimthbo/PYTHON/blob/main/DAY7/SORT_EX5.py)
 
 ##DAY 8:
-[도전 5 : DP_EX1_EX5.py](https://github.com/kimthbo/PYTHON/blob/main/DAY8/DP_EX1.py)
+[도전 1 : DP_EX1.py](https://github.com/kimthbo/PYTHON/blob/main/DAY8/DP_EX1.py)
+
+##DAY 9:
+[도전 1 : PRIME_STRING_EX1.py](https://github.com/kimthbo/PYTHON/blob/main/DAY9/PRIME_STRING_EX1.py)
+[도전 2 :  PRIME_STRING_EX2.py](https://github.com/kimthbo/PYTHON/blob/main/DAY9/PRIME_STRING_EX2.py)
+[도전 3 : TWO_PLUS_EX3.py](https://github.com/kimthbo/PYTHON/blob/main/DAY9/TWO_PLUS_EX3.py)
